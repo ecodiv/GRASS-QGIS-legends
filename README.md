@@ -2,7 +2,7 @@
 
 A collection of color and legend files in QGIS, GRASS and sld format. Below a brief description of the legend files available.
 
-Download the collection using the download link, or use git. With the latter, you can easily update to the latest versions of all styles. 
+Download the collection using the download link, or use git. With the latter, you can easily update to the latest versions of all styles.
 
 Feel free to send pull requests if you want to add to this collection. For sharing QGIS styles, make sure to check out the [QGIS resource sharing plugin](http://www.akbargumbira.com/qgis_resources_sharing/).
 
@@ -14,6 +14,9 @@ Feel free to send pull requests if you want to add to this collection. For shari
 * **WWF-biomes_grass**: Raster layers based on the WWF-biomes vector layer. The categories of the raster layer should correspond to the category numbers of the BIOME column in the original vector layer.
 
 * **LPS-colors_grass.txt**: Colors for the Livestock production system layer v.5 2011 ([data source](http://www.fao.org/ag/AGAinfo/resources/en/glw/GLW_prod-sys.html))
+
+* **GLOBCOVER_v23glob.txt**
+Color file for the ESA GlobCover Version 2.3 2009 300m resolution Land Cover Map ([data information](https://www.edenextdata.com/?q=content/esa-globcover-version-23-2009-300m-resolution-land-cover-map-0))
 
 ### QGIS layer style files
 
