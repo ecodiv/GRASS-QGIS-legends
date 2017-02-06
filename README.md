@@ -30,6 +30,6 @@ Colour and legend files in QGIS, GRASS and sld format. Below a brief description
 
 * **SLD styles from Sourcepole**: Styles for OpenLayer on Sourcepole: These style files can be used in QGIS. This site also offers OpenLayer files for amongst other Austria, Germany and Switzerland in Spatialite format. [link](http://www.sourcepole.ch/2010/2/28/spatialite)
 
-* ** SLD cookbook**: The development version of QGIS now supports loading and saving of Styled Layer Descriptor (SLD) styles in the layer properties dialog. The SLD cookbook offers a collection of SLD “recipes” for creating various types of map styles. [link](http://docs.geoserver.org/stable/en/user/styling/sld-cookbook/index.html)
+* **SLD cookbook**: The development version of QGIS now supports loading and saving of Styled Layer Descriptor (SLD) styles in the layer properties dialog. The SLD cookbook offers a collection of SLD “recipes” for creating various types of map styles. [link](http://docs.geoserver.org/stable/en/user/styling/sld-cookbook/index.html)
 
 * ***OS opendata styles***: Styling OS OpenData in Quantum GIS (QGIS) , Survey vector datasets such as OS Strategy. [link](http://www.lutraconsulting.co.uk/resources/styling-os-opendata-in-qgis)
