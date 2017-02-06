@@ -1,6 +1,11 @@
 ## GIS colour / legend files
 
-Colour and legend files in QGIS, GRASS and sld format. Below a brief description of the legend files available.
+A collection of color and legend files in QGIS, GRASS and sld format. Below a brief description of the legend files available.
+
+Download the collection using the download link, or use git. With the latter, you can easily update to the latest versions of all styles. 
+
+Feel free to send pull requests if you want to add to this collection. For sharing QGIS styles, make sure to check out the [QGIS resource sharing plugin](http://www.akbargumbira.com/qgis_resources_sharing/).
+
 
 ### Color files for GRASS rasters legend files
 
